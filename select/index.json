@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Promise you",
+  "base_artist": "アース・スター ドリーム",
+  "createdAt": "2025-12-09T09:36:15.173971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Promise You",
+      "artist": "La Sera",
+      "has_synced": false,
+      "path": "select/01_I_Promise_You_La_Sera.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mutiny, I Promise You",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/02_Mutiny,_I_Promise_You_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Promise You Made",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/03_The_Promise_You_Made_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 The promise you made",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/04_Cock_Robin_\u0000_The_promise_you_made_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Promise You",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/05_I_Promise_You_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Promise You Made",
+      "artist": "Cock Robin",
+      "has_synced": false,
+      "path": "select/06_The_Promise_You_Made_Cock_Robin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Promise You Made - Extended Version",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/07_The_Promise_You_Made_-_Extended_Version_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Promise You Made (Extended Version)",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/08_The_Promise_You_Made_(Extended_Version)_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Promise You Made",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/09_The_Promise_You_Made_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Promise You",
+      "artist": "Fat Tulips",
+      "has_synced": false,
+      "path": "select/10_I_Promise_You_Fat_Tulips.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Promise You",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/11_I_Promise_You_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Promise You Walls",
+      "artist": "Shiny Toy Guns",
+      "has_synced": false,
+      "path": "select/12_I_Promise_You_Walls_Shiny_Toy_Guns.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This I Promise You (Fatboy remix)",
+      "artist": "Shola Ama",
+      "has_synced": false,
+      "path": "select/13_This_I_Promise_You_(Fatboy_remix)_Shola_Ama.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Promise You",
+      "artist": "We Came As Romans",
+      "has_synced": true,
+      "path": "select/14_Promise_You_We_Came_As_Romans.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Promise You (Get Ready)",
+      "artist": "Samantha Fox",
+      "has_synced": true,
+      "path": "select/15_I_Promise_You_(Get_Ready)_Samantha_Fox.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Promise You Anything",
+      "artist": "Steve Earle & The Dukes",
+      "has_synced": false,
+      "path": "select/16_Promise_You_Anything_Steve_Earle_&_The_Dukes.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This I Promise You",
+      "artist": "Richard Marx",
+      "has_synced": true,
+      "path": "select/17_This_I_Promise_You_Richard_Marx.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "This I Promise You",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/18_This_I_Promise_You_NSYNC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Promise you",
+      "artist": "アース・スター ドリーム",
+      "has_synced": false,
+      "path": "select/pl_01_Promise_you_アース・スター_ドリーム.txt"
+    }
+  ]
+}
